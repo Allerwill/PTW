@@ -1,0 +1,37 @@
+$iconcl: #fff;
+$iconbg: #ffb536;
+$iconfs: 35px;
+
+$yeafs: 17px;
+$yeacl: #1f365c;
+
+$beccl: #8c95a2;
+
+// Usage
+.type-1732 {
+    .my-container{
+        text-align: center;
+        .icon {
+            font-size: $iconfs;
+            color: $iconcl;
+            text-align: center;
+            background: $iconbg;
+            border: 0.175em solid;
+            border-radius: 50%;
+            height: 2em;
+            width: 2em;
+            margin-left: 35%;
+        }
+        .yea {
+            font-size: $yeafs;
+            margin-top: 7%;
+            text-align: center;
+            color: $yeacl;
+            font-weight: bold;
+        }
+        .bec {
+            margin-top: 6%;
+            color: #8c95a2;
+        }
+    }
+}

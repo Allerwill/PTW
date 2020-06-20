@@ -1,0 +1,27 @@
+.type-1779 .my-container .zev {
+  background: #f4f5f7;
+  padding: 7% 8% 13% 8%; }
+  .type-1779 .my-container .zev .cura {
+    color: #8c95a2; }
+    .type-1779 .my-container .zev .cura .read-more {
+      color: #ffb536; }
+    .type-1779 .my-container .zev .cura .read-more:hover {
+      text-decoration: underline; }
+  .type-1779 .my-container .zev .avatar {
+    vertical-align: middle;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    float: left; }
+  .type-1779 .my-container .zev .pog {
+    margin-top: 10%; }
+    .type-1779 .my-container .zev .pog .kau {
+      padding-top: 3%;
+      padding-left: 33%; }
+      .type-1779 .my-container .zev .pog .kau .jam {
+        color: #1f365c;
+        font-size: 18px;
+        font-weight: bold; }
+      .type-1779 .my-container .zev .pog .kau .reg {
+        color: #ffb536;
+        font-weight: bold; }

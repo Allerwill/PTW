@@ -1,0 +1,52 @@
+// Variables
+$zevbg: #f4f5f7;
+$cura: #8c95a2;
+$readcl: #ffb536;
+$jamcl: #1f365c;
+$jamfs: 18px;
+$regcl: #ffb536;
+
+
+// Form vars
+
+// Usage
+.type-1779 {
+    .my-container{
+    .zev {
+      background: $zevbg;
+      padding: 7% 8% 13% 8%;
+      .cura {
+        color: $cura;
+        .read-more {
+          color: $readcl;
+        }
+        .read-more:hover {
+          text-decoration: underline;
+        }
+      }
+      .avatar {
+        vertical-align: middle;
+        width: 75px;
+        height: 75px;
+        border-radius: 50%;
+        float: left;
+      }
+      .pog {
+        margin-top: 10%;
+        .kau {
+          padding-top: 3%;
+          padding-left: 33%;
+          .jam {
+            color: $jamcl;
+            font-size: $jamfs;
+            font-weight: bold;
+          }
+          .reg {
+            color: $regcl;
+            font-weight: bold;
+          }
+        }
+      }
+    }
+  }
+}

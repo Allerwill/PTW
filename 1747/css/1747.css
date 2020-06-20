@@ -1,0 +1,28 @@
+.type-1747 .my-container .sing {
+  padding-top: 8%;
+  background: whitesmoke;
+  width: 100%;
+  padding-left: 3.5%; }
+  .type-1747 .my-container .sing .tang1 {
+    margin-bottom: 10%; }
+    .type-1747 .my-container .sing .tang1 .word {
+      color: #1f365c;
+      font-size: 35px;
+      font-weight: bold; }
+    .type-1747 .my-container .sing .tang1 .quis {
+      color: #8c95a2;
+      font-size: 20px;
+      margin-top: 3%;
+      font-style: italic; }
+    .type-1747 .my-container .sing .tang1 .james {
+      font-size: 24px;
+      font-weight: bold; }
+    .type-1747 .my-container .sing .tang1 .eco {
+      font-size: 19px;
+      color: #ffb536;
+      font-weight: bold; }
+  .type-1747 .my-container .sing .avatar {
+    vertical-align: middle;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%; }

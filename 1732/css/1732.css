@@ -1,0 +1,21 @@
+.type-1732 .my-container {
+  text-align: center; }
+  .type-1732 .my-container .icon {
+    font-size: 35px;
+    color: #fff;
+    text-align: center;
+    background: #ffb536;
+    border: 0.175em solid;
+    border-radius: 50%;
+    height: 2em;
+    width: 2em;
+    margin-left: 35%; }
+  .type-1732 .my-container .yea {
+    font-size: 17px;
+    margin-top: 7%;
+    text-align: center;
+    color: #1f365c;
+    font-weight: bold; }
+  .type-1732 .my-container .bec {
+    margin-top: 6%;
+    color: #8c95a2; }
