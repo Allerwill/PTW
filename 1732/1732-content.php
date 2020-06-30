@@ -13,8 +13,8 @@ $url_path = str_replace('\\', '/', $url_path);
 ?>
 
 <div class="type-1732">
-    <div class="container">
-        <div class="my-container">
+    <div class="container my-container">
+        
 
             <div class="row">
                 <div class="col-md-3">
@@ -50,6 +50,6 @@ $url_path = str_replace('\\', '/', $url_path);
                         ipsum dolor porta ullam rutrum glavrida unicus amet dolor.</div>
                 </div>
             </div>
-        </div>
+
     </div>
 </div>
