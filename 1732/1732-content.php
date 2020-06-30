@@ -14,7 +14,7 @@ $url_path = str_replace('\\', '/', $url_path);
 
 <div class="type-1732">
     <div class="container my-container">
-        
+
 
             <div class="row">
                 <div class="col-md-3">

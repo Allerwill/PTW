@@ -13,8 +13,8 @@ $url_path = str_replace('\\', '/', $url_path);
 ?>
 
 <div class="type-1779">
-    <div class="container">
-        <div class="my-container">
+    <div class="container my-container">
+
         <div class="row">
             <div class="col-md-4">
                 <div class="zev">
@@ -57,7 +57,8 @@ $url_path = str_replace('\\', '/', $url_path);
                         <br>
                         <br>
                         Maecenas sit ameus et malesuada fames ac turpis egestas ulla! Curabitur lorem
-                        ipsum dolor quis rhoncus tellus, quis lorem ipsum dolorluctus… <a class="read-more" href=#>Read more</a>
+                        ipsum dolor quis rhoncus tellus, quis lorem ipsum dolorluctus… <a class="read-more" href=#>Read
+                            more</a>
                     </div>
                     <div class="pog">
                         <img src="./images/2.jpg" alt="Avatar" class="avatar">
@@ -71,9 +72,12 @@ $url_path = str_replace('\\', '/', $url_path);
                 <br>
                 <div class="zev">
                     <div class="cura">
-                        Perspiciatis faucibus dolor amet purus unde om iste mattis natus sit! Proin adipiscing porta tellus,
-                        ut feugiat nibh adipiscing metus sit amet. In eu justo a felis lorem ipsum – amet faucibus ornare vel id metus.
-                        Maecenas sit amet tincidunt elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
+                        Perspiciatis faucibus dolor amet purus unde om iste mattis natus sit! Proin adipiscing porta
+                        tellus,
+                        ut feugiat nibh adipiscing metus sit amet. In eu justo a felis lorem ipsum – amet faucibus
+                        ornare vel id metus.
+                        Maecenas sit amet tincidunt elit. Pellentesque habitant morbi tristique senectus et netus et
+                        malesuada fames ac
                         turpis egestas ulla!
                     </div>
                     <div class="pog">
@@ -107,9 +111,11 @@ $url_path = str_replace('\\', '/', $url_path);
                     <div class="cura">
                         Curabitur laoreet fringilla lorem ipsum porta. Nullam rutrum velit.
                         Maecenas sit amet tincidunt elit. Pellentesque habitant morbi tristique
-                        senectus et netus et malesuada fames ac turpis egestas ulla! Curabitur laoreet fringilla lorem ipsum porta.
+                        senectus et netus et malesuada fames ac turpis egestas ulla! Curabitur laoreet fringilla lorem
+                        ipsum porta.
                         Nullam rutrum velit. Maecenas sit amet tincidunt elit. Pellentesque habitant morbi
-                        tristique senectus et netus et malesuada fames ac turpis egestas ulla! Curabitur quis rhoncus tellus,
+                        tristique senectus et netus et malesuada fames ac turpis egestas ulla! Curabitur quis rhoncus
+                        tellus,
                         quis lorem ipsum dolorluctus. <a class="read-more" href=#>Read more</a>
                     </div>
                     <div class="pog">
@@ -122,6 +128,6 @@ $url_path = str_replace('\\', '/', $url_path);
                 </div>
             </div>
         </div>
+
     </div>
-        </div>
 </div>
