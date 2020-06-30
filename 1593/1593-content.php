@@ -14,8 +14,8 @@ $url_path = str_replace('\\', '/', $url_path);
 
 <div class="type-1593">
 
-    <div class="container">
-        <div class="my-container">
+    <div class="container my-container">
+
 
             <h2 class="h2-title">Send us a message</h2>
             <p class="contact-description"> Lorem ipsum dolor sit amet, lorem ipsum dolor – consectetur adipiscing elit. Ut
@@ -56,7 +56,7 @@ $url_path = str_replace('\\', '/', $url_path);
                 </div>
                 <button type="submit" class="btn btn-primary">Send Message</button>
             </form>
-        </div>
+
     </div>
 </div>
 
